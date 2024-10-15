@@ -1,0 +1,152 @@
+/* Definições Globais */
+body {
+  font-family: 'Roboto', 'Open Sans', sans-serif;
+  background-color: #000000; /* Fundo preto */
+  color: #f1f1f1;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos de Navegação */
+nav {
+  background-color: #1a1a3b; /* Azul escuro */
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: #f1f1f1;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  transition: all 0.3s ease;
+}
+
+nav ul li a:hover,
+nav ul li.active a {
+  color: #ffffff; /* Branco */
+}
+
+/* Cabeçalho */
+header {
+  background-color: #1a1a3b; /* Azul escuro */
+  color: #ffffff;
+  padding: 15px 0;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
+
+header .navbar-brand {
+  font-weight: 700;
+  font-size: 24px;
+  color: #ffffff;
+}
+
+header .navbar-brand i {
+  margin-right: 5px;
+}
+
+header .navbar-nav .nav-link {
+  color: #f1f1f1;
+  transition: color 0.3s ease;
+}
+
+header .navbar-nav .nav-link:hover,
+header .navbar-nav .nav-link.active {
+  color: #ffffff; /* Branco */
+}
+
+/* Conteúdo Principal */
+main {
+  padding: 30px 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* Seção Hero */
+.hero {
+  background-color: rgba(0, 0, 0, 0.8); /* Fundo escuro com 80% de opacidade */
+  background-image: url('fiocruz.jpg'); /* Imagem de fundo (opcional) */
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding: 150px 0; /* Ajuste o padding conforme necessário */
+  text-align: center;
+}
+
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('fiocruz.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding: 150px 0;
+  text-align: center;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #ffffff; /* Azul neon */
+}
+
+.hero p {
+  font-size: 24px;
+  margin-bottom: 30px;
+  font-style: italic; /* Estilo de fonte itálico para o subtexto */
+  color: #ffffff; /* Amarelo neon */
+}
+
+/* Rodapé */
+footer {
+  background-color: #1a1a3b; /* Azul escuro */
+  color: #ffffff;
+  padding: 20px 0;
+  text-align: center;
+  border-top: 1px solid #333;
+  margin-top: 40px;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: #33ccff;
+}
+
+a:hover {
+  color: #ffcc00; /* Amarelo neon ao passar o mouse */
+}
+
+/* Botões */
+.btn {
+  background-color: #0096c7;
+  color: #fff;
+  border: none;
+  padding: 12px 24px; /* Aumente o padding para um botão mais destacado */
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  margin: 0 10px;
+}
+
+.btn:hover {
+  background-color: #108eb8;
+}
