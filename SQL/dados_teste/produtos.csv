@@ -1,0 +1,51 @@
+produto_id;nome_produto;categoria;preco
+1;"Televisor Samsung 50""";Eletronicos;2600.00
+2;Liquidificador Oster;Eletrodomesticos;250.00
+3;Tenis Nike Air Max;Esportes;550.00
+4;Tablet Apple iPad;Eletronicos;4500.00
+5;Ventilador Mondial;Eletrodomesticos;180.00
+6;Caixa de Som JBL;Eletronicos;600.00
+7;Bicicleta Infantil Houston;Esportes;800.00
+8;Impressora Epson Ecotank;Informatica;1200.00
+9;Aspirador de Po Electrolux;Eletrodomesticos;700.00
+10;Maquina de Lavar Samsung;Eletrodomesticos;2500.00
+11;Fogao 4 bocas Brastemp;Eletrodomesticos;1300.00
+12;Smartphone Xiaomi Redmi;Eletronicos;1700.00
+13;Camera Canon EOS;Fotografia;3500.00
+14;Skate Profissional;Esportes;980.00
+15;Notebook Dell;Eletronicos;4100.00
+16;Roteador TP-Link Archer;Informatica;230.00
+17;Smartwatch Amazfit;Eletronicos;890.00
+18;Microfone Blue Yeti;Acessorios;950.00
+19;"Monitor LG 27""";Informatica;1300.00
+20;Notebook Acer Aspire;Eletronicos;3000.00
+21;Fogao 5 bocas Electrolux;Eletrodomesticos;1800.00
+22;Forno Eletrico Philco;Eletrodomesticos;650.00
+23;Teclado Mecanico Redragon;Informatica;480.00
+24;Bicicleta Speed Sense;Esportes;3800.00
+25;"Smart TV LG 65""";Eletronicos;4800.00
+26;Frigobar Electrolux;Eletrodomesticos;1200.00
+27;Caixa Gamer Redragon;Informatica;420.00
+28;Bicicleta Eletrica Sense;Esportes;5400.00
+29;Maquina Nespresso;Eletrodomesticos;650.00
+30;Headset Logitech G733;Acessorios;900.00
+31;Notebook Apple MacBook Air;Eletronicos;8000.00
+32;Camera GoPro Hero11;Fotografia;2400.00
+33;Ar Condicionado Springer;Eletrodomesticos;2300.00
+34;Barraca de Camping NTK;Esportes;700.00
+35;Monitor Gamer Acer 144hz;Informatica;1800.00
+36;Tenis Adidas Runfalcon;Esportes;300.00
+37;Ventilador de Teto Arno;Eletrodomesticos;600.00
+38;Cadeira Gamer ThunderX3;Acessorios;1600.00
+39;Tablet Samsung Galaxy Tab;Eletronicos;2100.00
+40;Liquidificador Philco;Eletrodomesticos;200.00
+41;Fogao Cooktop Fischer;Eletrodomesticos;790.00
+42;Impressora HP DeskJet;Informatica;390.00
+43;Notebook Samsung Book;Eletronicos;3200.00
+44;Micro-ondas Electrolux;Eletrodomesticos;850.00
+45;Teclado Logitech K120;Informatica;120.00
+46;Bicicleta Aro 29 Caloi;Esportes;1900.00
+47;"Monitor Samsung 24""";Informatica;850.00
+48;Camera Nikon Coolpix;Fotografia;2200.00
+49;Air Fryer Mondial;Eletrodomesticos;500.00
+50;Notebook ASUS VivoBook;Eletronicos;3300.00

@@ -1,0 +1,26 @@
+cliente_id;nome;email;cidade;data_nascimento
+1;Ana Souza;ana@email.com;Sao Paulo;1990-03-15
+2;Bruno Lima;bruno@email.com;Rio de Janeiro;1985-07-22
+3;Carla Mendes;carla@email.com;Belo Horizonte;1993-11-30
+4;Diego Almeida;diego@email.com;Recife;1988-01-10
+5;Elisa Ferreira;elisa@email.com;Salvador;1995-09-05
+6;Felipe Rocha;felipe@email.com;Porto Alegre;1984-12-18
+7;Gabriela Santos;gabriela@email.com;Fortaleza;1991-04-09
+8;Henrique Castro;henrique@email.com;Curitiba;1999-08-25
+9;Isabela Martins;isabela@email.com;Brasilia;2000-06-01
+10;Joao Pedro;joao@email.com;Manaus;1987-10-14
+11;Karen Oliveira;karen@email.com;Goiania;1992-02-28
+12;Lucas Barbosa;lucas@email.com;Natal;2001-05-13
+13;Mariana Ribeiro;mariana@email.com;Joao Pessoa;1994-07-07
+14;Nathan Costa;nathan@email.com;Vitoria;1989-12-03
+15;Olivia Teixeira;olivia@email.com;Maceio;2002-09-17
+16;Pedro Henrique;pedro@email.com;Florianopolis;1983-03-01
+17;Queila Moura;queila@email.com;Campo Grande;1990-11-19
+18;Rafael Tavares;rafael@email.com;Teresina;1986-06-08
+19;Sabrina Dias;sabrina@email.com;SaoLuis;1996-10-23
+20;Thiago Cunha;thiago@email.com;Aracaju;2003-04-26
+21;Ursula Pires;ursula@email.com;Palmas;1981-08-30
+22;Vinicius Ramos;vinicius@email.com;Belem;1997-05-11
+23;William Araujo;william@email.com;Macapa;1998-03-21
+24;Yasmin Lopes;yasmin@email.com;Boa Vista;2004-12-02
+25;Zeca Nogueira;zeca@email.com;Porto Velho;1982-01-06
