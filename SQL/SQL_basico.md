@@ -1,4 +1,4 @@
-# Tutorial sobre SQL
+# Tutorial sobre SQL - parte 01
 ## 🛢️ O que é um banco de dados?
 - Entidade utilizada para gerenciar os dados de uma aplicação.
 - As tabelas categorizam os cados, separando-os de acordo com seu contexto.
