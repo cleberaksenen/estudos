@@ -25,7 +25,7 @@ Ex. Nota de um estudante - valores contínuos
 3) Assumindo uma função que gera os dados
 4) Experiências passadas (Bayesiana)
 
-### Probabilidade condicional
+### Probabilidade condicional (P(A∣B))
 - Probabilidade de um evento acontecer quando se tem uma informação a mais sobre esse evento
 
 P(A\B) -> predizer A, quando ja se sabe B
@@ -46,7 +46,25 @@ Portanto:
 
 P(A∣B) = 1/6 / 1/2 = 1/3
 
+### Probabilidade conjunta (P(A∩B))
+- Probabilidade de dois ou mais eventos acontecerem simultaneamente
 
+P(A∩B) = P(A) * P(B∣A) = P(B) * P(A∣B)
+
+Ex.
+- P(A) [Sair 3] = 1/6
+- P(B) [Sair par] = 1/3
+- P(B∣A) [Sair 3 dado que é par] = 0
+
+Portanto: P(A∩B) = 0
+
+- Para eventos independentes, temos:
+
+Ex.
+- P(A) [Sair 3 em um dado] = 1/6
+- P(B∣A) [Sair 3 em outro dado, dado que saiu 3 no primeiro] = 1/6 (um não interfere no resultado do outro)
+
+Portanto: P(A∩B) = 1/6 * 1/6 = 1/36
 ​
  
 
