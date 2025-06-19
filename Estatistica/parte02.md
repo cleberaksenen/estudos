@@ -22,26 +22,26 @@ Podemos acumular, incrementar
 #### Somatório
 - Somatorio (∑ (sigma maiúsculo)) -> operação matemática usada para somar uma sequência de valores, associada a observações de uma variável.
 
-![Somatorio](image-3.png)
-![Somatorio2](image-5.png)
-![Somatorio3](image-7.png)
+![Somatorio](imagens/image-3.png)
+![Somatorio2](imagens/image-5.png)
+![Somatorio3](imagens/image-7.png)
 
 #### Média
 - Média -> medida de tendência central que representa o valor "típico" ou "central" de um conjunto de dados numéricos. É o ponto mais próximo de todos os outros pontos.
 
-![Média](image-9.png)
+![Média](imagens/image-9.png)
 
 Média populacional (μ) - dados de uma população
 
 Média amostral (x̄) - estimador da média populacional
 
-![Média2](image-8.png)
+![Média2](imagens/image-8.png)
 
 #### Mediana (Q2)
 - Mediana ->  medida de tendência central que representa o valor central de um conjunto de dados ordenados. Ela divide os dados em duas metades: 50% dos valores estão abaixo da mediana e 50% estão acima.
 
-![Mediana](image-10.png)
-![Mediana2](image-11.png)
+![Mediana](imagens/image-10.png)
+![Mediana2](imagens/image-11.png)
 
 - Conjuntos simétricos => Média e mediana parecidas
 - Conjuntos assimétricos => Média e mediana diferentes
@@ -50,8 +50,8 @@ Média amostral (x̄) - estimador da média populacional
 - Quartil 1 -> Representa o valor abaixo do qual estão 25% dos dados.
 - Quartil 3 -> Representa o valor abaixo do qual estão 75% dos dados.
 
-![Quartis](image-12.png)
-![Quartis2](image-13.png)
+![Quartis](imagens/image-12.png)
+![Quartis2](imagens/image-13.png)
 
 - Intervalo interquartílico (IQR) -> Mede a dispersão dos dados entre os quartis centrais (50% do conjunto)
 

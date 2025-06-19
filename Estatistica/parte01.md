@@ -24,7 +24,7 @@ Os dados podem ter origem de:
 - Unidade amostral -> cada pessoa/objeto que faz parte da amostra
 - Variáveis/características -> informações da unidade amostral (gênero, idade...)
 
-![Exemplo01](image.png)
+![Exemplo01](imagens/image.png)
 
 ## 🔣 Tipos de variáveis
 
@@ -34,5 +34,5 @@ Os dados podem ter origem de:
 - Discreta -> números inteiros (Ex. filhos)
 - Contínua -> números flutuantes (Ex. peso)
 
-![Exemplo02](image-1.png)
+![Exemplo02](imagens/image-1.png)
 
