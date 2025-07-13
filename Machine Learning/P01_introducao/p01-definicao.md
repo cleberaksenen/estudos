@@ -7,14 +7,14 @@
 4. 🖼️ Imagens
 5. 🔊 Sons 
 
-![Dados](imagens/image-01.png)
+![Dados](../imagens/image-01.png)
 
 ## O que é Machine Learning?
 - Baseado na *Probabilidade Condicional*, no qual se restringe o espaço amostral de acordo com as novas informações. Há assim um aumento da probabilidade de acerto.
 
 Exemplo:
 
-![Taela-frutas](imagens/image-02.png)
+![Taela-frutas](../imagens/image-02.png)
 
 - Algoritmos de aprendizado de máquina “descobrem” regras com base em exemplos. 
 
@@ -34,7 +34,7 @@ Em 1959, Arthur Samuel definiu aprendizado de máquina como o "campo de estudo q
 - O modelo é treinado sem receber rótulos nos dados — ou seja, não se sabe a resposta correta. O objetivo é descobrir padrões ocultos, estruturas ou relações nos dados por conta própria.
 - Não existe um Y
 
-![Aprendizagem](imagens/image-06.png)
+![Aprendizagem](../imagens/image-06.png)
 
 ---
 ## Modelos de regressão

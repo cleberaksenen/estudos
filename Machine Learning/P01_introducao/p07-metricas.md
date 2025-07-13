@@ -3,24 +3,24 @@
 ## ➗ Métricas de performance
 ### Acurácia
 
-![acuracia](imagens/image-23.png)
+![acuracia](../imagens/image-23.png)
 ---
 
 ### Precisão
 
-![precisao](imagens/image-24.png)
+![precisao](../imagens/image-24.png)
 ---
 
 ### Recall (sensibilidade)
 - Taxa de captura dos positivos
 
-![recall](imagens/image-25.png)
+![recall](../imagens/image-25.png)
 ---
 
 ### Especificidade
 - Taxa de captura dos negativos (contrário da sensibilidade)
 
-![especificidade](imagens/image-26.png)
+![especificidade](../imagens/image-26.png)
 
 ---
 
@@ -35,12 +35,12 @@ A curva ROC (Receiver Operating Characteristic) é um gráfico que mostra a rela
 
 -> Quanto maior a área - AUC (Area Under Curve) score, melhor o modelo
 
-![Curva ROC](imagens/image-27.png)
+![Curva ROC](../imagens/image-27.png)
 
 ### Importância
 - A curva mostra o trade-off entre identificar positivos corretamente e não cometer falsos positivos
 
-![Curva ROC](imagens/image-28.png)
+![Curva ROC](../imagens/image-28.png)
 
 ### 🧪 Exemplo Real
 Imagine um modelo que detecta doença cardíaca com base em exames de sangue. 

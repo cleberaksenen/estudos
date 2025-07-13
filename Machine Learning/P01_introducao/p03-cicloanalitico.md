@@ -90,5 +90,5 @@ Monitorar, avaliar e ajustar continuamente o modelo para manter sua performance
 - 🛠 Reavaliação e re-treinamento do modelo
 
 
-![Cicloanalitico](imagens/image-07.png)
+![Cicloanalitico](../imagens/image-07.png)
 

@@ -6,14 +6,14 @@ Atributos das cervejas:
 3) Espuma
 4) Cor
 
-![Cervejas](imagens/image-03.png)
+![Cervejas](../imagens/image-03.png)
 
 ### Como separar as cervejas (algoritmo de árvore de decisão)?
 - Várias condições que buscam um nó puro na árvore (única classe de variável resposta)
 
-![Cervejas2](imagens/image-04.png)
+![Cervejas2](../imagens/image-04.png)
 
-![Cervejas3](imagens/image-05.png)
+![Cervejas3](../imagens/image-05.png)
 
 -> Quanto mais profunda a árvore, maior sua pureza, porém menor o número de unidades amostrais (exemplares)
 

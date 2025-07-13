@@ -12,7 +12,7 @@
 - Os dados podem ser inseridos de diversas formas, o que inclui tanto arquivos, bancos de dados e serviços em nuvem
 
 ## 🔗 Relações:
-- Uma relação entre tabelas em Power BI é um vínculo entre duas tabelas com base em uma ou mais colunas (normalmente chaves primárias e estrangeiras), permitindo que os dados se comuniquem entre si
+- Uma relação entre tabelas em Power BI é um vínculo entre duas tabelas com base em uma ou mais colunas (normalmente chaves primárias e estrangeiras), permitindo que os dados se comuniquem
 - Pode ser acessado em "Modelo" e criado simplemente arrastando o campo em comum (chave) para a planilha que receberá a relação
 
 ## 🔄 Power Query - ETL:
@@ -69,11 +69,11 @@ Total faturamento = SUMX(Vendas, Vendas[Preço Unitário]*Vendas[Quantidade])
 - Plano de fundo -> Segundo plano da página -> Inserir um draft
 
 ### Passo 02 - Adicionar, cartões, botões, tabelas e gráficos
-![Modelo-pt1](image.png)
+![Modelo-pt1](imagens/image-01.png)
 
 ### Passo 03 - Criar linhas do tempo e segmentar dados com SLICERS
 - Filtragem dos dados de forma dinâmica
-![Modelo-pt2](image-1.png)
+![Modelo-pt2](imagens/image-02.png)
 
 ### Passo 04 - KPIs
 #### Principais:
@@ -87,4 +87,6 @@ Total faturamento = SUMX(Vendas, Vendas[Preço Unitário]*Vendas[Quantidade])
 
  #### Como acessa-los:
  - Na direita, existe a opção KPI
- ![KPI](image-2.png)
+ 
+ ![KPI](imagens/image-03.png)
+
